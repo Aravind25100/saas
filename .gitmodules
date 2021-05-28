@@ -1,3 +1,6 @@
 [submodule "level-6-wd201"]
 	path = level-6-wd201
 	url = https://github.com/Aravind25100/todo_manager
+[submodule "level-5-wd201"]
+	path = level-5-wd201
+	url = https://github.com/Aravind25100/todo_manager
