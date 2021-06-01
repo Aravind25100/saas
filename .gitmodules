@@ -4,6 +4,3 @@
 [submodule "level-5-wd201"]
 	path = level-5-wd201
 	url = https://github.com/Aravind25100/todo_manager
-[submodule "Recreate_todo"]
-	path = Recreate_todo
-	url = https://github.com/Aravind25100/Recreate_todo
